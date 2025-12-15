@@ -23,7 +23,7 @@ The system demonstrates the practical application of **advanced Java concepts** 
 
 - Java (JDK 8 or higher)  
 - Object-Oriented Programming (OOP)  
-- File Handling / Database (to be decided)  
+- Database  
 - Git & GitHub  
 
 ---
@@ -46,13 +46,6 @@ The system demonstrates the practical application of **advanced Java concepts** 
 - Rental agreement management  
 - Search and filtering of available houses  
 
----
-
-## 🚀 Project Status
-
-- Repository created  
-- Group members added  
-- System design phase in progress  
 
 ---
 
