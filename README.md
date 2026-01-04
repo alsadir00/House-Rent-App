@@ -61,7 +61,7 @@ This platform solves those problems by offering a **centralized, role-based syst
 5. **Yeabkal    Tibebu** — UGR/35600/16 
 6. **Nardos     Ayalew** — UGR/35087/16  
 
-
+**I want to inform the teacher all group members have participated in this project. Each branches are created to their respective contributor. The reason that only three of us used our account is that others have coputer issues! With regards!**
 ---
 
 
