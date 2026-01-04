@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Give Feedback</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+<div class="navbar">
+    <h1>Instructor Dashboard</h1>
+    <div>
+        <a href="instructorDashboard.html">Back</a>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Give Feedback</h2>
+
+        <form action="GiveFeedbackServlet" method="post">
+
+            <label>Submission ID</label>
+            <input type="number" name="submissionId" required>
+
+            <label>Feedback</label>
+            <textarea name="feedbackText" rows="5" required></textarea>
+
+            <label>Grade</label>
+            <input type="text" name="grade" required>
+
+            <input type="submit" value="Submit Feedback">
+
+        </form>
+    </div>
+
+</div>
+
+</body>
+</html>
